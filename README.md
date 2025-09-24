@@ -1,12 +1,12 @@
 # React + Vite
 
-...existing code...
+
 
 # React + Vite — Weather App
 
 A simple single-page weather app built with Vite + React that fetches current weather from OpenWeatherMap and displays a clean card UI.
 
-![App Screenshot](public/Screenshot (61).png)
+![App Screenshot](public/Screenshot(61).png)
 
 Quick start
 - Install: `npm install`
